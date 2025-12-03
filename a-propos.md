@@ -1,10 +1,14 @@
+
 ---
-title: À propos – AltAria42
+# AltAria42 – Accessibilité numérique inclusive
 ---
+
+[Accueil](/) · [Services](/services) · [Obligations légales](/obligations) · [À propos](/a-propos) · [Contact](/contact)
+
 
 # À propos d’AltAria42
 
-Je suis Delphine (Nesa), consultante en accessibilité numérique basée en Occitanie.
+Je suis Delphine, consultante en accessibilité numérique basée en Occitanie.
 
 ## Ce que je fais
 J’accompagne principalement :
