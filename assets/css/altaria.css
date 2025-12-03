@@ -19,7 +19,7 @@ body {
 }
 
 /* ================================
-   WRAPPER (contenu centré)
+   CONTENEUR CENTRAL
    ================================ */
 
 .wrapper {
@@ -29,7 +29,20 @@ body {
 }
 
 /* ================================
-   HEADER : titre + logo
+   LIENS GLOBAUX
+   ================================ */
+
+a {
+    color: var(--altaria-cuivre);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* ================================
+   HEADER : Titre + Logo
    ================================ */
 
 header {
@@ -38,41 +51,43 @@ header {
     margin-bottom: 1.5rem;
 }
 
-/* Titre : c’est un lien, donc on cible h1 a */
+/* Dans le thème Minimal, le titre est un lien <h1><a>…</a></h1> */
 header h1 {
     margin: 0 0 1rem 0;
 }
+
+/* On force le titre en VERT, non souligné */
 header h1 a {
     color: var(--altaria-vert);
     font-size: 2.4rem;
     font-weight: 700;
     text-decoration: none;
 }
+
 header h1 a:hover {
     color: var(--altaria-vert);
     text-decoration: none;
 }
 
-/* Logo : centré sous le titre */
+/* Logo centré sous le titre */
 header img {
     display: block;
-    margin: 0.5rem auto 1rem auto;
+    margin: 0.75rem auto 0.75rem auto;
     width: 260px;
     max-width: 260px;
     height: auto;
 }
 
-/* Masquer description + "View My GitHub Profile" */
+/* On cache la description + "View My GitHub Profile" */
 header p {
     display: none !important;
 }
 
 /* ================================
-   MENU (liens sous le logo)
+   MENU (la ligne de liens sous le logo)
    ================================ */
 
-nav,
-.site-nav,
+/* Dans ton Markdown, le "menu" est le premier paragraphe de la page */
 .wrapper > p:first-of-type {
     font-size: 1.2rem;
     font-weight: 600;
@@ -80,18 +95,12 @@ nav,
     margin-bottom: 2rem;
 }
 
-/* Liens de navigation */
-nav a,
-.site-nav a,
+/* Liens du menu */
 .wrapper > p:first-of-type a {
     margin: 0 1rem;
     color: var(--altaria-vert);
-    text-decoration: none;
-    font-weight: 600;
 }
 
-nav a:hover,
-.site-nav a:hover,
 .wrapper > p:first-of-type a:hover {
     color: var(--altaria-cuivre);
     text-decoration: underline;
@@ -123,22 +132,12 @@ p {
     margin-bottom: 1rem;
 }
 
-/* Liens dans le texte */
-a {
-    color: var(--altaria-cuivre);
-}
-a:hover {
-    text-decoration: underline;
-}
-
-/* ================================
-   LISTES
-   ================================ */
-
+/* Listes */
 ul {
     padding-left: 1.2rem;
     margin-bottom: 1.2rem;
 }
+
 li {
     margin-bottom: 0.4rem;
 }
@@ -169,8 +168,6 @@ footer {
         font-size: 2rem;
     }
 
-    nav,
-    .site-nav,
     .wrapper > p:first-of-type {
         font-size: 1.1rem;
     }
