@@ -212,3 +212,6 @@ textarea:focus {
         font-size: 1.6rem;
     }
 }
+body {
+    border-top: none !important;
+}
