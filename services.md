@@ -2,7 +2,8 @@
 title: Accueil
 ---
 
-[Accueil](/) · [Services](/services) · [Obligations légales](/obligations) · [À propos](/a-propos) · [Contact](/contact)
+{% include menu.html %}
+
 
 # Services AltAria42 - Grille 2025/2026
 
