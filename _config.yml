@@ -3,4 +3,4 @@ description: ""
 logo: "/assets/img/logo-altaria42.png"
 theme: jekyll-theme-minimal
 include:
-  - assets/css/custom.css
+  - assets/css/style.css
