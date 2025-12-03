@@ -2,7 +2,7 @@
 title: "Services AltAria42"
 ---
 
-# Services AltAria42 – Grille 2025/2026
+# Services AltAria42 - Grille 2025/2026
 
 J’accompagne toutes les structures disposant d’un site web ou d’un service numérique destiné au public : collectivités, associations, entreprises privées (TPE, PME, e-commerce, SaaS…), établissements publics et organismes assurant un service au public.
 
@@ -28,7 +28,7 @@ Toute structure qui souhaite un premier état des lieux rapide avant correction 
 
 ---
 
-## 🧪 Diagnostic rapide RGAA – **450 à 750 €**
+## 🧪 Diagnostic rapide RGAA - **450 à 750 €**
 
 Évaluation structurée de 5 à 10 pages pour obtenir une vision fiable du niveau global.
 
@@ -47,7 +47,7 @@ Structures souhaitant un pré-audit ou une analyse intermédiaire exploitable pa
 
 ---
 
-## 🟩 Audit complet RGAA 4.1 – **1 500 à 2 900 €**
+## 🟩 Audit complet RGAA 4.1 - **1 500 à 2 900 €**
 
 Audit officiel d’un échantillon de 10 à 20 pages représentatives, conforme à la méthodologie RGAA.
 
@@ -71,7 +71,7 @@ Applicable à tout site recevant du public.
 
 ---
 
-## 📝 Déclaration d’accessibilité + Schéma pluriannuel + Plan d’action – **200 à 500 €**
+## 📝 Déclaration d’accessibilité + Schéma pluriannuel + Plan d’action - **200 à 500 €**
 
 Rédaction des documents réglementaires obligatoires, conformes au décret du 24 juillet 2019.
 
@@ -92,7 +92,7 @@ Toutes structures soumises aux obligations légales d’accessibilité numériqu
 
 ---
 
-## 🤝 Accompagnement mensuel – **300 à 450 €/mois** (sur devis)
+## 🤝 Accompagnement mensuel - **300 à 450 €/mois** (sur devis)
 
 Suivi continu pour améliorer l’accessibilité dans la durée.
 
