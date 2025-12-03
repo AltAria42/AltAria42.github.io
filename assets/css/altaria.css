@@ -1,16 +1,214 @@
-/* Test très visible */
-body {
-    border-top: 6px solid #D46A2B;
+/* =========================
+   Base typographique
+   ========================= */
+
+html {
+    box-sizing: border-box;
 }
 
-/* Header aligné logo + titre */
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+                 Ubuntu, Cantarell, "Helvetica Neue", Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+    color: #222222;
+    background-color: #ffffff;
+}
+
+/* Conteneur principal du thème minimal */
+.wrapper {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 1.5rem;
+}
+
+/* =========================
+   Header / Logo / Titre
+   ========================= */
+
+.site-header {
+    border-bottom: 4px solid #D46A2B; /* cuivre AltAria42 */
+    margin-bottom: 1.5rem;
+}
+
 .site-header .wrapper {
     display: flex;
     align-items: center;
     gap: 2rem;
+    flex-wrap: wrap;
 }
 
+/* Logo */
 .site-header img {
-    max-width: 180px;
+    max-width: 200px;
     height: auto;
+}
+
+/* Titre du site */
+.site-header .project-name {
+    margin: 0;
+    font-size: 1.9rem;
+    line-height: 1.25;
+    color: #1C3D3A; /* vert foncé AltAria42 */
+}
+
+/* Tagline (actuellement vide, mais on garde le style au cas où) */
+.site-header .project-tagline {
+    margin: 0.3rem 0 0;
+    color: #555555;
+}
+
+/* Masquer le lien "View My GitHub Profile" (inutile pour le visiteur) */
+.site-header + .wrapper p:first-of-type a[href*="github.com"] {
+    display: none;
+}
+
+/* =========================
+   Navigation (menu texte en haut de page)
+   ========================= */
+
+/* Le menu est le premier paragraphe après le titre de page */
+main .wrapper > p:first-of-type {
+    margin-top: 0;
+    margin-bottom: 1.5rem;
+    font-size: 0.95rem;
+}
+
+main .wrapper > p:first-of-type a {
+    text-decoration: none;
+    color: #1C3D3A;
+    font-weight: 600;
+}
+
+main .wrapper > p:first-of-type a:hover,
+main .wrapper > p:first-of-type a:focus {
+    text-decoration: underline;
+}
+
+main .wrapper > p:first-of-type {
+    word-spacing: 0.25rem;
+}
+
+/* =========================
+   Titres & contenu
+   ========================= */
+
+h1, h2, h3, h4 {
+    font-weight: 700;
+    margin-top: 1.5rem;
+    margin-bottom: 0.75rem;
+}
+
+h1 {
+    font-size: 2rem;
+    line-height: 1.25;
+    color: #111111;
+}
+
+h2 {
+    font-size: 1.5rem;
+    color: #1C3D3A;
+}
+
+h3 {
+    font-size: 1.2rem;
+    color: #1C3D3A;
+}
+
+/* Séparateur entre gros blocs */
+hr {
+    border: 0;
+    border-top: 1px solid #e0e0e0;
+    margin: 2rem 0;
+}
+
+/* Paragraphes & listes */
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+
+ul, ol {
+    padding-left: 1.5rem;
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+
+li + li {
+    margin-top: 0.25rem;
+}
+
+/* =========================
+   Liens
+   ========================= */
+
+a {
+    color: #1C3D3A;
+}
+
+a:hover,
+a:focus {
+    text-decoration: underline;
+}
+
+/* Style pour les liens importants (par ex. Contact) */
+a.cta-link {
+    font-weight: 600;
+}
+
+/* =========================
+   Accessibilité : focus visible
+   ========================= */
+
+a:focus,
+button:focus,
+input:focus,
+textarea:focus {
+    outline: 3px solid #D46A2B;
+    outline-offset: 2px;
+}
+
+/* =========================
+   Pied de page
+   ========================= */
+
+.site-footer {
+    border-top: 1px solid #e0e0e0;
+    margin-top: 2rem;
+    padding-top: 1rem;
+    font-size: 0.9rem;
+    color: #555555;
+}
+
+.site-footer a {
+    color: #1C3D3A;
+}
+
+/* =========================
+   Responsive
+   ========================= */
+
+@media (max-width: 768px) {
+    .wrapper {
+        padding: 1rem;
+    }
+
+    .site-header .wrapper {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .site-header img {
+        max-width: 160px;
+    }
+
+    h1 {
+        font-size: 1.6rem;
+    }
 }
