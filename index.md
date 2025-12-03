@@ -1,13 +1,10 @@
 
 ---
-title: AltAria42 – Accessibilité numérique inclusive
+# AltAria42 – Accessibilité numérique inclusive
 ---
 
 [Accueil](/) · [Services](/services) · [Obligations légales](/obligations) · [À propos](/a-propos) · [Contact](/contact)
 
-# AltAria42 – Accessibilité numérique inclusive
-
-# AltAria42 – Accessibilité numérique inclusive
 
 Consultante en accessibilité numérique (RGAA et bonnes pratiques)
 Basée en Occitanie – Audits flash, diagnostics rapides, conseils et accompagnement.
