@@ -180,3 +180,20 @@ footer {
         max-width: 210px;
     }
 }
+.altaria-menu {
+  text-align: center;
+  margin: 20px 0;
+  font-size: 1.1rem;
+  color: #D46A2B; /* cuivre */
+}
+
+.altaria-menu a {
+  color: #D46A2B;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.altaria-menu a:hover,
+.altaria-menu a:focus {
+  text-decoration: underline;
+}
