@@ -33,7 +33,7 @@ body {
    ========================= */
 
 .site-header {
-    border-bottom: 4px solid #D46A2B; /* cuivre AltAria42 */
+    border-bottom: none;
     margin-bottom: 1.5rem;
 }
 
