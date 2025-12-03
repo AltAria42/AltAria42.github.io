@@ -1,54 +1,74 @@
 /* ================================
-   AltAria42 – Style global
+   AltAria42 – Style global propre
    ================================ */
 
-/* ---- Variables couleurs ---- */
+/* ---- Couleurs ---- */
 :root {
     --altaria-vert: #1C3D3A;
     --altaria-cuivre: #D46A2B;
-    --altaria-gris-clair: #f6f6f6;
 }
 
-/* ---- Reset léger ---- */
+/* ---- Base ---- */
 body {
     margin: 0;
     padding: 0;
     font-family: "Segoe UI", Arial, sans-serif;
     color: #222;
-    background: white;
+    background: #fff;
     line-height: 1.6;
 }
 
 /* ================================
-   HEADER : Titre + Logo + Menu
+   WRAPPER (contenu centré)
+   ================================ */
+
+.wrapper {
+    width: 90%;
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+/* ================================
+   HEADER : titre + logo
    ================================ */
 
 header {
     text-align: center;
-    padding: 2rem 1rem 0.5rem 1rem;
-    margin-bottom: 2rem;
+    padding: 1.5rem 1rem 0.5rem 1rem;
+    margin-bottom: 1.5rem;
 }
 
-/* Titre principal */
+/* Titre : c’est un lien, donc on cible h1 a */
 header h1 {
+    margin: 0 0 1rem 0;
+}
+header h1 a {
     color: var(--altaria-vert);
     font-size: 2.4rem;
     font-weight: 700;
-    margin: 0 0 1rem 0;
+    text-decoration: none;
+}
+header h1 a:hover {
+    color: var(--altaria-vert);
+    text-decoration: none;
 }
 
-/* Logo centré */
-.wrapper > img[alt="Logo"],
-img[alt="Logo"] {
+/* Logo : centré sous le titre */
+header img {
     display: block;
-    margin: 1.5rem auto 2rem auto;
+    margin: 0.5rem auto 1rem auto;
     width: 260px;
     max-width: 260px;
     height: auto;
 }
 
+/* Masquer description + "View My GitHub Profile" */
+header p {
+    display: none !important;
+}
+
 /* ================================
-   MENU (liens en ligne)
+   MENU (liens sous le logo)
    ================================ */
 
 nav,
@@ -57,9 +77,10 @@ nav,
     font-size: 1.2rem;
     font-weight: 600;
     text-align: center;
-    margin-bottom: 2.5rem;
+    margin-bottom: 2rem;
 }
 
+/* Liens de navigation */
 nav a,
 .site-nav a,
 .wrapper > p:first-of-type a {
@@ -80,12 +101,6 @@ nav a:hover,
    CONTENU
    ================================ */
 
-.wrapper {
-    width: 90%;
-    max-width: 900px;
-    margin: 0 auto;
-}
-
 h1, h2, h3 {
     color: var(--altaria-vert);
     font-weight: 700;
@@ -95,11 +110,17 @@ h1, h2, h3 {
 h2 {
     font-size: 2rem;
     margin-top: 2rem;
+    margin-bottom: 1rem;
 }
 
 h3 {
     font-size: 1.4rem;
     margin-top: 1.6rem;
+    margin-bottom: 0.6rem;
+}
+
+p {
+    margin-bottom: 1rem;
 }
 
 /* Liens dans le texte */
@@ -111,22 +132,51 @@ a:hover {
 }
 
 /* ================================
-   RESPONSIVE (< 768px)
+   LISTES
+   ================================ */
+
+ul {
+    padding-left: 1.2rem;
+    margin-bottom: 1.2rem;
+}
+li {
+    margin-bottom: 0.4rem;
+}
+
+/* ================================
+   FOOTER
+   ================================ */
+
+footer {
+    margin-top: 3rem;
+    padding-top: 2rem;
+    border-top: 1px solid #eee;
+    text-align: center;
+    font-size: 0.9rem;
+    color: #666;
+}
+
+/* ================================
+   RESPONSIVE
    ================================ */
 
 @media (max-width: 768px) {
-    header h1 {
+    .wrapper {
+        width: 94%;
+    }
+
+    header h1 a {
         font-size: 2rem;
     }
+
     nav,
     .site-nav,
     .wrapper > p:first-of-type {
         font-size: 1.1rem;
     }
-    img[alt="Logo"] {
-        width: 200px;
-    }
-    .wrapper {
-        width: 94%;
+
+    header img {
+        width: 210px;
+        max-width: 210px;
     }
 }
