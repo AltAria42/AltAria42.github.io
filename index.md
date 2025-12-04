@@ -4,7 +4,7 @@ title: AltAria42 – Accessibilité numérique inclusive
 
 <a href="#contenu" class="skip-link">Aller directement au contenu</a>
 
-[Accueil](/) · [Services](/services) · [Obligations légales](/obligations) · [À propos](/a-propos) · [Contact](/contact)
+{% include menu.html %}
 
 
 # Rendre vos services numériques accessibles, utiles et fiables pour tous {#contenu}
