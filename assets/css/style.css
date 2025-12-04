@@ -24,6 +24,7 @@ body {
   padding: 20px 0;
   font-size: 0.9rem;
   color: #F4EDE9;
+    text-decoration: underline;;
 }
 .site-footer-top {
   margin-bottom: 8px;
@@ -31,10 +32,10 @@ body {
 
 .site-footer a {
   color: #1C3D3A; /* vert AltAria42 */
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 .site-footer a:hover,
 .site-footer a:focus {
-  text-decoration: none
+  text-decoration: underline;
 }
