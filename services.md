@@ -7,7 +7,7 @@ title: Services AltAria42 – Grille 2025/2026
 
 {% include menu.html %}
 
-<a id="contenu"></a>
+<p><a id="contenu" role="main"></a></p>
 
 # Services AltAria42 - Grille 2025/2026
 
