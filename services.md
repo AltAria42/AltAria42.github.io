@@ -5,7 +5,7 @@ title: Accueil
 {% include menu.html %}
 
 
-# Services AltAria42 - Grille 2025/2026
+# Services AltAria42 - Grille 2025/2026 {#contenu}
 
 J’accompagne toutes les structures disposant d’un site web ou d’un service numérique destiné au public : collectivités, associations, entreprises privées (TPE, PME, e-commerce, SaaS…), établissements publics et organismes assurant un service public.
 
