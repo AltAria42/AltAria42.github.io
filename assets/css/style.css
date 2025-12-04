@@ -1,3 +1,20 @@
 body {
     border-top: 5px solid #D46A2B;
 }
+.skip-link {
+  position: absolute;
+  top: -50px;
+  left: 10px;
+  background: #ffffff;
+  color: #000000;
+  padding: 8px 14px;
+  border: 2px solid #000000;
+  border-radius: 4px;
+  z-index: 1000;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.skip-link:focus {
+  top: 10px;
+}
