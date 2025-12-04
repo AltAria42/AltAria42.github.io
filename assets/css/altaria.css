@@ -184,7 +184,7 @@ footer {
   text-align: center;
   margin: 20px 0;
   font-size: 1.1rem;
-  color: #D46A2B; /* cuivre */
+  color: var(--altaria-vert);
 }
 
 .altaria-menu a {
