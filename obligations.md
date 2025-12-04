@@ -7,7 +7,7 @@ title: AltAria42 – Obligations légales en accessibilité
 
 {% include menu.html %}
 
-<a id="contenu"></a>
+<p><a id="contenu" role="main"></a></p>
 
 # Obligations légales en accessibilité numérique (France)
 
