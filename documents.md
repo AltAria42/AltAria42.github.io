@@ -7,7 +7,7 @@ title: Documents à télécharger – AltAria42
 
 {% include menu.html %}
 
-<a id="contenu"></a>
+<p><a id="contenu" role="main"></a></p>
 
 # Documents à télécharger
 
