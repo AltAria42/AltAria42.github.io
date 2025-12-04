@@ -23,14 +23,14 @@ body {
   margin-top: 40px;
   padding: 20px 0;
   font-size: 0.9rem;
-  color: #666666;
+  color: #F4EDE9;
 }
 .site-footer-top {
   margin-bottom: 8px;
 }
 
 .site-footer a {
-  color: #D46A2B; /* cuivre AltAria42 */
+  color: #1C3D3A; /* vert AltAria42 */
   text-decoration: none;
 }
 
