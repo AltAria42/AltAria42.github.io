@@ -69,6 +69,8 @@ Aucune configuration spéciale n’est nécessaire.
 
 Si vous rencontrez une difficulté technique, un problème de lecture ou de navigation, vous pouvez me contacter :
 
-📧 **delphine.galerne@gmail.com**
+📧 **altaria42acces@gmail.com**
 
 Je vous répondrai rapidement afin d’améliorer l’accès au contenu.
+
+{% include footer.html %}
