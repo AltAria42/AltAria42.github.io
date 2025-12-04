@@ -7,7 +7,7 @@ title: AltAria42 – Accessibilité numérique inclusive
 [Accueil](/) · [Services](/services) · [Obligations légales](/obligations) · [À propos](/a-propos) · [Contact](/contact)
 
 
-# Rendre vos services numériques accessibles, utiles et fiables pour tous
+# Rendre vos services numériques accessibles, utiles et fiables pour tous {#contenu}
 
 L’accessibilité numérique, ce n’est pas seulement une obligation réglementaire :
 c’est surtout la garantie que votre site, vos services en ligne et vos contenus soient **faciles à comprendre, simples à utiliser et réellement accessibles** pour toutes et tous — y compris les personnes en situation de handicap, les seniors, les publics éloignés du numérique ou les utilisateurs occasionnels.
