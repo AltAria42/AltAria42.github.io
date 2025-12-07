@@ -9,7 +9,7 @@ title: Déclaration d’accessibilité – AltAria42
 
 <p><a id="contenu" role="main"></a></p>
 
-# Déclaration d’accessibilité
+## Déclaration d’accessibilité
 
 AltAria42 s’engage à rendre son site web accessible conformément à l’article 47 de la loi du 11 février 2005 et au décret du 24 juillet 2019.
 
@@ -18,7 +18,7 @@ https://altaria42.github.io
 
 ---
 
-## État de conformité
+### État de conformité
 
 À la suite d’un auto-diagnostic réalisé selon le RGAA 4.1 :
 
@@ -28,7 +28,7 @@ Le site respecte une partie des critères du RGAA mais présente encore plusieur
 
 ---
 
-## Résultats détaillés de l’évaluation
+### Résultats détaillés de l’évaluation
 
 - Nombre de critères RGAA applicables : en cours d’évaluation  
 - Nombre de critères conformes : en cours  
@@ -38,7 +38,7 @@ Le site respecte une partie des critères du RGAA mais présente encore plusieur
 
 ---
 
-## Méthodologie de test
+### Méthodologie de test
 
 L’évaluation repose sur :
 
@@ -49,7 +49,7 @@ L’évaluation repose sur :
 
 ---
 
-## Améliorations prévues
+### Améliorations prévues
 
 - optimisation des contrastes  
 - harmonisation de la structure des titres  
@@ -61,7 +61,7 @@ Ces corrections seront réalisées progressivement.
 
 ---
 
-## Aide à la navigation
+### Aide à la navigation
 
 Pour faciliter l’accès au contenu :
 
@@ -72,7 +72,7 @@ Pour faciliter l’accès au contenu :
 
 ---
 
-## Retour d’information et contact
+### Retour d’information et contact
 
 Si vous ne parvenez pas à accéder à un contenu ou si vous rencontrez une difficulté, contactez :
 
@@ -82,7 +82,7 @@ Nous nous engageons à répondre dans un délai raisonnable.
 
 ---
 
-## Voies de recours
+### Voies de recours
 
 Si vous constatez un défaut d’accessibilité et que vous n’obtenez pas de réponse satisfaisante après avoir signalé la difficulté :
 
@@ -95,7 +95,7 @@ Si vous constatez un défaut d’accessibilité et que vous n’obtenez pas de r
 
 ---
 
-## Mise à jour
+### Mise à jour
 
 Déclaration établie en **décembre 2025** et mise à jour à mesure de l’amélioration du site.
 
