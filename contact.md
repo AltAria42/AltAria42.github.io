@@ -8,7 +8,7 @@ title: Contact – AltAria42
 {% include menu.html %}
 
 <p><a id="contenu" role="main"></a></p>
-# Contact
+## Contact
 
 Pour toute question, demande de mini-audit ou besoin de diagnostic :
 
