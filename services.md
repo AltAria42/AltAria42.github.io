@@ -9,7 +9,7 @@ title: Services AltAria42 – Grille 2025/2026
 
 <p><a id="contenu" role="main"></a></p>
 
-# Services AltAria42 - Grille 2025/2026
+## Services AltAria42 - Grille 2025/2026
 
 J’accompagne toutes les structures disposant d’un site web ou d’un service numérique destiné au public : collectivités, associations, entreprises privées (TPE, PME, e-commerce, SaaS…), établissements publics et organismes assurant un service public.
 
@@ -17,7 +17,7 @@ Mes prestations s’appuient sur le RGAA 4.1 et une méthodologie claire, réali
 
 ---
 
-## Mini-audit flash (1 à 3 pages) - 120 à 180 €
+### Mini-audit flash (1 à 3 pages) - 120 à 180 €
 
 Diagnostic rapide permettant d’identifier les principaux points bloquants sur des pages clés.
 
@@ -36,7 +36,7 @@ Toute structure souhaitant un premier état des lieux avant correction ou refont
 
 ---
 
-## Diagnostic rapide RGAA (5 à 10 pages) - 450 à 750 €
+### Diagnostic rapide RGAA (5 à 10 pages) - 450 à 750 €
 
 Évaluation structurée donnant une vision fiable du niveau global d’accessibilité.
 
@@ -56,7 +56,7 @@ Structures souhaitant un pré-audit ou une analyse intermédiaire exploitable pa
 
 ---
 
-## Audit complet RGAA 4.1 (10 à 20 pages) - 1 500 à 2 900 €
+### Audit complet RGAA 4.1 (10 à 20 pages) - 1 500 à 2 900 €
 
 Audit officiel d’un échantillon représentatif, conforme à la méthodologie RGAA.
 
@@ -78,7 +78,7 @@ Audit officiel d’un échantillon représentatif, conforme à la méthodologie 
 
 ---
 
-## Déclaration d’accessibilité + Schéma + Plan d’action - 200 à 500 €
+### Déclaration d’accessibilité + Schéma + Plan d’action - 200 à 500 €
 
 Rédaction des documents réglementaires obligatoires conforme au décret 24 juillet 2019.
 
@@ -100,7 +100,7 @@ Toutes structures soumises aux obligations légales.
 
 ---
 
-## Accompagnement mensuel - 300 à 450 €/mois (sur devis)
+### Accompagnement mensuel - 300 à 450 €/mois (sur devis)
 
 Suivi continu pour maintenir et améliorer l’accessibilité dans la durée.
 
@@ -119,7 +119,7 @@ Prestation flexible, modulaire, sans engagement.
 
 ---
 
-## Conditions tarifaires 2025/2026
+### Conditions tarifaires 2025/2026
 
 Tarifs publics finaux valables pour 2025 et 2026.  
 TVA non applicable - article 293 B du CGI (auto-entreprise).
@@ -129,7 +129,7 @@ En cas d’assujettissement futur :
 
 ---
 
-## Contact
+### Contact
 
 altaria42acces@gmail.com  
 https://www.linkedin.com/company/altaria42/
