@@ -9,11 +9,11 @@ title: À propos d’AltAria42
 
 <a id="contenu"></a>
 
-# À propos d’AltAria42
+## À propos d’AltAria42
 
 Je suis Delphine, consultante en accessibilité numérique basée en Occitanie.
 
-## Ce que je fais
+### Ce que je fais
 
 J’accompagne principalement :
 
@@ -28,13 +28,13 @@ sur :
 - les bonnes pratiques de conception et de contenu  
 - la compréhension du RGAA sans jargon inutile  
 
-## Mon approche
+### Mon approche
 
 - **Pragmatique** : partir de l’existant, prioriser ce qui bloque le plus.  
 - **Pédagogique** : expliquer clairement pourquoi un problème est gênant.  
 - **Adaptée** : tenir compte des contraintes (temps, budget, ressources internes).
 
-## Mes engagements
+### Mes engagements
 
 - Transparence sur le périmètre et les limites  
 - Recommandations concrètes, actionnables  
