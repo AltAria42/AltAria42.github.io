@@ -9,9 +9,9 @@ title: AltAria42 – Obligations légales en accessibilité
 
 <p><a id="contenu" role="main"></a></p>
 
-# Obligations légales en accessibilité numérique (France)
+## Obligations légales en accessibilité numérique (France)
 
-## Qui est concerné ?
+### Qui est concerné ?
 
 L’accessibilité numérique concerne toute structure qui met un service numérique à disposition du public :
 
@@ -25,7 +25,7 @@ Dès qu’un site ou un service numérique est utilisé par des usagers (clients
 
 ---
 
-## Obligations légales (décret du 24 juillet 2019)
+### Obligations légales (décret du 24 juillet 2019)
 
 Chaque organisme doit publier :
 
@@ -39,7 +39,7 @@ Pour établir la déclaration et le taux, un audit d’accessibilité (complet o
 
 ---
 
-## Référentiel RGAA
+### Référentiel RGAA
 
 - Basé sur la norme internationale WCAG 2.1  
 - Version actuelle : RGAA 4.1  
@@ -54,14 +54,14 @@ Un site est considéré comme :
 
 ---
 
-## Nouveauté 2025 : contrôle automatisé national
+### Nouveauté 2025 : contrôle automatisé national
 
 Depuis 2025, un observatoire annuel analyse automatiquement des milliers de sites publics et privés.  
 Les sites non conformes sont identifiés plus rapidement, ce qui renforce la nécessité de mettre en place une démarche d’accessibilité.
 
 ---
 
-## Sanctions en cas de non-respect
+### Sanctions en cas de non-respect
 
 - Amende administrative pouvant aller jusqu’à 25 000 €  
 - Publication du manquement  
