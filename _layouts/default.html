@@ -1,26 +1,12 @@
-<!DOCTYPE html>
-<html lang="fr">
 <head>
-  <meta charset="UTF-8">
+  <meta charset="utf-8">
   <title>{{ page.title }} – AltAria42</title>
-  <link rel="stylesheet" href="/assets/style.css">
-  <link rel="stylesheet" href="/assets/altaria.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- CSS du thème GitHub Pages -->
+  <link rel="stylesheet"
+        href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+
+  <!-- Ta CSS perso AltAria42 (si tu as altaria.css dans /assets) -->
+  <link rel="stylesheet" href="{{ '/assets/altaria.css' | relative_url }}">
 </head>
-
-<body>
-
-<a class="skip-link" href="#contenu">Aller directement au contenu</a>
-
-<header>
-  {% include header.html %}
-  {% include menu.html %}
-</header>
-
-<main id="contenu" role="main" class="main-content">
-  {{ content }}
-</main>
-
-{% include footer.html %}
-
-</body>
-</html>
