@@ -7,96 +7,103 @@ title: Déclaration d’accessibilité – AltAria42
 
 {% include menu.html %}
 
-<p><a id="contenu" role="main"></a></p>
+<a id="contenu"></a>
 
 ## Déclaration d’accessibilité
 
-AltAria42 s’engage à rendre son site web accessible conformément à l’article 47 de la loi du 11 février 2005 et au décret du 24 juillet 2019.
+AltAria42 s’engage à rendre son site internet accessible, conformément à l’article 47 de la loi du 11 février 2005 et au décret du 24 juillet 2019.
 
-Cette déclaration d’accessibilité concerne le site :  
+La présente déclaration d’accessibilité s’applique au site :  
 https://altaria42.github.io
 
 ---
 
 ### État de conformité
 
-À la suite d’un auto-diagnostic réalisé selon le RGAA 4.1 :
+À la suite d’un **auto-diagnostic réalisé selon le RGAA 4.1**, le site AltAria42 est déclaré :
 
-Le site est déclaré : **partiellement conforme**
+**partiellement conforme**
 
-Le site respecte une partie des critères du RGAA mais présente encore plusieurs non-conformités, en cours de correction.
+Le site respecte une partie des critères du RGAA, mais présente encore certaines non-conformités, actuellement en cours de correction.
 
 ---
 
-### Résultats détaillés de l’évaluation
+### Résultats de l’évaluation
+
+Les résultats détaillés de l’évaluation sont les suivants :
 
 - Nombre de critères RGAA applicables : en cours d’évaluation  
 - Nombre de critères conformes : en cours  
-- Taux de conformité : sera mis à jour après audit complet  
+- Taux de conformité : sera mis à jour après réalisation d’un audit complet  
 
-(L’audit sera mis en ligne dès finalisation.)
+Les résultats seront publiés dès finalisation de l’audit.
 
 ---
 
 ### Méthodologie de test
 
-L’évaluation repose sur :
+L’évaluation de l’accessibilité repose sur :
 
-- un auto-diagnostic manuel selon le RGAA 4.1  
-- des tests clavier (navigation, focus, ordre logique)  
-- des tests avec lecteur d’écran NVDA  
-- des vérifications avec des outils automatiques (Wave, Axe DevTools, Lighthouse)  
+- un auto-diagnostic manuel selon le RGAA 4.1 ;
+- des tests de navigation au clavier (ordre de tabulation, visibilité du focus) ;
+- des tests avec le lecteur d’écran NVDA ;
+- des vérifications à l’aide d’outils automatiques  
+  (Wave, Axe DevTools, Lighthouse).
 
 ---
 
 ### Améliorations prévues
 
-- optimisation des contrastes  
-- harmonisation de la structure des titres  
-- amélioration du formulaire de contact  
-- vérification de toutes les images et attributs ALT  
-- gestion plus fine des liens consécutifs et intitulés  
+Des actions d’amélioration sont planifiées, notamment :
 
-Ces corrections seront réalisées progressivement.
+- optimisation des contrastes de couleurs ;
+- harmonisation de la structure des titres ;
+- amélioration du formulaire de contact ;
+- vérification des images et des attributs ALT ;
+- clarification des intitulés de liens consécutifs.
+
+Ces corrections sont mises en œuvre **progressivement**, en fonction des priorités identifiées.
 
 ---
 
 ### Aide à la navigation
 
-Pour faciliter l’accès au contenu :
+Pour faciliter l’accès aux contenus du site :
 
-- Un lien « Aller directement au contenu » est présent au début de chaque page.  
-- La navigation clavier est entièrement fonctionnelle.  
-- Les pages sont structurées avec des titres hiérarchisés.  
-- Les utilisateurs de lecteurs d’écran peuvent accéder rapidement au contenu principal.
+- un lien « Aller directement au contenu » est présent en début de page ;
+- la navigation au clavier est fonctionnelle sur l’ensemble du site ;
+- les pages sont structurées avec des titres hiérarchisés ;
+- les utilisateurs de lecteurs d’écran peuvent accéder directement au contenu principal.
 
 ---
 
 ### Retour d’information et contact
 
-Si vous ne parvenez pas à accéder à un contenu ou si vous rencontrez une difficulté, contactez :
+Si vous rencontrez une difficulté d’accès à un contenu ou à une fonctionnalité du site, vous pouvez contacter :
 
 altaria42acces@gmail.com
 
-Nous nous engageons à répondre dans un délai raisonnable.
+Un retour vous sera apporté dans un délai raisonnable.
 
 ---
 
 ### Voies de recours
 
-Si vous constatez un défaut d’accessibilité et que vous n’obtenez pas de réponse satisfaisante après avoir signalé la difficulté :
+Si vous constatez un défaut d’accessibilité empêchant l’accès à un contenu ou à un service, et que vous n’obtenez pas de réponse satisfaisante après signalement, vous pouvez :
 
-- contacter le Défenseur des droits via : https://formulaire.defenseurdesdroits.fr  
-- ou le délégué régional du Défenseur des droits  
-- ou envoyer un courrier (sans affranchissement) :  
-  Défenseur des droits  
-  Libre réponse 71120  
-  75342 Paris CEDEX 07  
+- contacter le Défenseur des droits via  
+  https://formulaire.defenseurdesdroits.fr  
+- contacter le délégué régional du Défenseur des droits  
+- envoyer un courrier (sans affranchissement) à :  
+
+Défenseur des droits  
+Libre réponse 71120  
+75342 Paris CEDEX 07
 
 ---
 
 ### Mise à jour
 
-Déclaration établie en **décembre 2025** et mise à jour à mesure de l’amélioration du site.
+Cette déclaration d’accessibilité a été établie en **décembre 2025** et est mise à jour régulièrement, en fonction des améliorations apportées au site.
 
 {% include footer.html %}
