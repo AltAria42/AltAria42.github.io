@@ -10,53 +10,44 @@ title: Accueil
 <a id="contenu"></a>
 ## Rendre vos services numériques accessibles, utiles et fiables pour tous
 
-L’accessibilité numérique n’est pas seulement une obligation réglementaire.  
-C’est avant tout la possibilité de proposer des sites, des services en ligne et des contenus faciles à comprendre, simples à utiliser et réellement accessibles à toutes et tous.
+*Consultante en accessibilité numérique*
 
-Cela concerne notamment :
-- les personnes en situation de handicap,
-- les seniors,
-- les publics moins à l’aise avec le numérique,
-- les utilisateurs occasionnels.
+Je suis consultante en accessibilité numérique et j’accompagne les organisations dans l’amélioration de l’accessibilité de leurs sites et services en ligne.
 
-Un site accessible, c’est un site :
+L’accessibilité numérique ne se limite pas à une obligation réglementaire.  
+Elle permet surtout de concevoir des contenus plus simples à comprendre, des parcours plus clairs et des interfaces réellement utilisables par tous.
 
-- plus clair et plus intuitif ;
-- plus efficace pour vos usagers ;
-- plus robuste sur le plan technique ;
-- plus crédible auprès de vos partenaires et de l’administration.
+Un site accessible bénéficie à l’ensemble des utilisateurs :
+personnes en situation de handicap, seniors, publics moins à l’aise avec le numérique, mais aussi utilisateurs occasionnels ou pressés.
 
 ---
 
-### Pourquoi travailler l’accessibilité ?
+### Mon approche
 
-#### Améliorer l’expérience de tous les utilisateurs
+J’interviens avec une approche pragmatique et progressive, adaptée à la réalité des équipes et aux contraintes des projets.
 
-Lorsque la structure d’un site est cohérente, que la navigation au clavier fonctionne, que les contenus sont correctement décrits et que les contrastes sont lisibles, l’ensemble des utilisateurs en bénéficie – pas uniquement les personnes en situation de handicap.
+Mon rôle est de vous aider à :
+- comprendre votre situation actuelle,
+- identifier les priorités,
+- avancer pas à pas vers une meilleure accessibilité, sans complexifier inutilement.
 
-#### Répondre aux obligations légales
-
-Les administrations, collectivités, établissements publics et organismes assurant une mission de service public doivent publier une déclaration d’accessibilité, un schéma pluriannuel et un plan d’action annuel.  
-L’accessibilité fait donc pleinement partie des responsabilités numériques.
-
-#### Valoriser votre engagement
-
-Un site réellement accessible reflète une démarche d’inclusion, de transparence et de qualité de service.  
-Il montre que vous prenez en compte tous les usagers, et pas uniquement les plus à l’aise avec le numérique.
+Je m’appuie sur le RGAA et les bonnes pratiques de l’accessibilité numérique, avec une attention particulière portée à l’expérience utilisateur et à la compréhension des contenus.
 
 ---
 
-### Ce que propose AltAria42
+### Ce que je propose
 
-Je vous accompagne, en tant que consultante en accessibilité numérique, avec une approche pragmatique, pédagogique et adaptée à vos contraintes :
+J’accompagne les structures publiques et privées à différents niveaux de maturité, selon leurs besoins et leurs obligations :
 
-- Mini-audit flash sur des pages ou parcours clés  
-- Diagnostic RGAA ciblé et priorisé  
-- Conseils concrets pour corriger efficacement  
-- Accompagnement à la mise en conformité et à la rédaction des documents obligatoires  
-- Sensibilisation des équipes et bonnes pratiques éditoriales  
+- diagnostics et audits d’accessibilité ciblés,
+- recommandations concrètes et priorisées,
+- tests manuels (navigation clavier, lecteur d’écran NVDA),
+- accompagnement dans la durée et sensibilisation des équipes.
 
-Chaque recommandation est expliquée clairement et orientée vers des actions simples, réalistes et priorisées.
+---
+
+AltAria42 est mon activité de consultante en accessibilité numérique.  
+J’accompagne les organisations pour rendre leurs services plus inclusifs, plus clairs et plus fiables, au service de tous les utilisateurs.
 
 ---
 
