@@ -11,7 +11,11 @@ title: À propos d’AltAria42
 
 ## À propos d’AltAria42
 
-Je suis Delphine, consultante en accessibilité numérique basée en Occitanie.
+Je suis Delphine, consultante en accessibilité numérique, basée en Occitanie.
+
+J’ai créé AltAria42 pour accompagner les structures qui souhaitent améliorer l’accessibilité de leurs sites et services numériques, sans jargon inutile ni solutions irréalistes.
+
+---
 
 ### Ce que je fais
 
@@ -21,23 +25,31 @@ J’accompagne principalement :
 - les collectivités et établissements publics  
 - les associations  
 
-sur :
+dans leurs démarches d’accessibilité numérique, notamment sur :
 
-- les audits flash et diagnostics rapides  
-- la mise en conformité minimale  
+- des audits flash et diagnostics rapides  
+- la mise en conformité minimale et progressive  
 - les bonnes pratiques de conception et de contenu  
-- la compréhension du RGAA sans jargon inutile  
+- la compréhension du RGAA de façon claire et accessible  
+
+---
 
 ### Mon approche
 
-- **Pragmatique** : partir de l’existant, prioriser ce qui bloque le plus.  
-- **Pédagogique** : expliquer clairement pourquoi un problème est gênant.  
-- **Adaptée** : tenir compte des contraintes (temps, budget, ressources internes).
+Mon travail repose sur trois principes :
+
+- **Pragmatique** : partir de l’existant et prioriser ce qui bloque réellement les utilisateurs.  
+- **Pédagogique** : expliquer simplement pourquoi un problème pose difficulté et comment y remédier.  
+- **Adaptée** : tenir compte des contraintes réelles (temps, budget, ressources internes).
+
+---
 
 ### Mes engagements
 
-- Transparence sur le périmètre et les limites  
-- Recommandations concrètes, actionnables  
-- Orientation “utilisateurs réels”, pas uniquement “checklist RGAA”
+Dans chaque mission, je m’engage à :
+
+- être transparente sur le périmètre et les limites de l’intervention ;  
+- formuler des recommandations concrètes et réellement actionnables ;  
+- privilégier une approche centrée sur les usages réels, au-delà d’une simple lecture “checklist” du RGAA.
 
 {% include footer.html %}
