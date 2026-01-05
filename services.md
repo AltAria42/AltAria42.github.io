@@ -11,26 +11,27 @@ title: Services AltAria42 – Grille 2025/2026
 
 ## Services AltAria42 - Grille 2025/2026
 
-J’accompagne toutes les structures disposant d’un site web ou d’un service numérique destiné au public : collectivités, associations, entreprises privées (TPE, PME, e-commerce, SaaS…), établissements publics et organismes assurant un service public.
+J’accompagne les structures disposant d’un site web ou d’un service numérique destiné au public : collectivités, associations, établissements publics, entreprises privées (TPE, PME, e-commerce, SaaS).
 
-Mes prestations s’appuient sur le RGAA 4.1 et une méthodologie claire, réaliste et compréhensible par toutes les équipes.
+Mes prestations s’appuient sur le **RGAA 4.1** et une méthodologie pragmatique, progressive et compréhensible par toutes les équipes.  
+L’objectif n’est pas de tout faire d’un coup, mais **d’avancer simplement**, avec des actions utiles et réalistes.
 
 ---
 
 ### Mini-audit flash (1 à 3 pages) - 120 à 180 €
 
-Diagnostic rapide permettant d’identifier les principaux points bloquants sur des pages clés.
+Analyse ciblée permettant d’identifier les principaux blocages d’accessibilité sur des pages ou parcours représentatifs.
 
 **Pour qui ?**  
-Toute structure souhaitant un premier état des lieux avant correction ou refonte.
+Structures souhaitant un premier état des lieux avant correction, refonte ou arbitrage.
 
 **Comprend :**
 
 - analyse manuelle des critères essentiels du RGAA  
 - identification des erreurs critiques  
-- recommandations immédiates  
-- priorisation simple  
-- restitution obligatoire en PDF (synthèse)  
+- recommandations immédiates et compréhensibles  
+- priorisation simple des actions  
+- restitution en PDF (synthèse)
 
 **Délai :** 48 h à 5 jours.
 
@@ -38,19 +39,19 @@ Toute structure souhaitant un premier état des lieux avant correction ou refont
 
 ### Diagnostic rapide RGAA (5 à 10 pages) - 450 à 750 €
 
-Évaluation structurée donnant une vision fiable du niveau global d’accessibilité.
+Évaluation structurée donnant une vision fiable et exploitable du niveau global d’accessibilité sur un périmètre défini.
 
 **Pour qui ?**  
-Structures souhaitant un pré-audit ou une analyse intermédiaire exploitable par une équipe technique.
+Structures souhaitant un pré-audit ou une analyse intermédiaire exploitable par une équipe technique ou éditoriale.
 
 **Comprend :**
 
 - analyse des critères essentiels du RGAA  
-- exemples commentés  
+- exemples commentés et contextualisés  
 - recommandations opérationnelles  
 - tableau de priorisation  
-- rapport PDF complet  
-- échange audio/visio possible (facultatif)  
+- rapport PDF détaillé  
+- échange audio ou visio possible (facultatif)
 
 **Délai :** 1 à 2 semaines.
 
@@ -58,7 +59,7 @@ Structures souhaitant un pré-audit ou une analyse intermédiaire exploitable pa
 
 ### Audit complet RGAA 4.1 (10 à 20 pages) - 1 500 à 2 900 €
 
-Audit officiel d’un échantillon représentatif, conforme à la méthodologie RGAA.
+Audit d’accessibilité réalisé sur un échantillon représentatif, conformément à la méthodologie RGAA.
 
 **Pour qui ?**
 
@@ -68,11 +69,11 @@ Audit officiel d’un échantillon représentatif, conforme à la méthodologie 
 
 **Comprend :**
 
-- analyse complète des critères applicables RGAA  
+- analyse complète des critères applicables du RGAA  
 - tableaux détaillés par critère  
 - recommandations concrètes et exploitables  
-- restitution obligatoire en PDF, avec taux (%)  
-- échange de restitution (audio ou visio)  
+- restitution en PDF avec taux de conformité (%)  
+- échange de restitution (audio ou visio)
 
 **Délai :** 2 à 4 semaines.
 
@@ -80,52 +81,47 @@ Audit officiel d’un échantillon représentatif, conforme à la méthodologie 
 
 ### Déclaration d’accessibilité + Schéma + Plan d’action - 200 à 500 €
 
-Rédaction des documents réglementaires obligatoires conforme au décret 24 juillet 2019.
+Rédaction des documents réglementaires obligatoires, conformément au décret du 24 juillet 2019.
 
 **Pour qui ?**  
-Toutes structures soumises aux obligations légales.
+Structures soumises aux obligations légales en matière d’accessibilité numérique.
 
 **Processus :**
 
 1. mini-audit, diagnostic ou audit complet  
-2. proposition d’une trajectoire de mise en conformité  
-3. validation interne (priorités, moyens)  
-4. rédaction des trois documents :
-   - Déclaration d’accessibilité  
-   - Schéma pluriannuel (3 ans)  
-   - Plan d’action annuel  
+2. définition d’une trajectoire de mise en conformité réaliste  
+3. validation interne des priorités et moyens  
+4. rédaction des documents suivants :
+   - déclaration d’accessibilité  
+   - schéma pluriannuel (3 ans)  
+   - plan d’action annuel  
 
-**Livrables :** PDF et/ou HTML, prêts à publier.  
+**Livrables :** PDF et/ou HTML, prêts à publication.  
+
 **Délai :** 3 à 10 jours.
 
 ---
 
-### Accompagnement mensuel - 300 à 450 €/mois (sur devis)
+### Accompagnement mensuel - à partir de 150 € / mois (sur devis)
 
-Suivi continu pour maintenir et améliorer l’accessibilité dans la durée.
+L’accompagnement permet de ne pas rester seul face aux corrections et aux décisions à prendre après un audit ou un diagnostic.
+Il s’agit d’un suivi régulier pour prioriser les actions, répondre aux questions et avancer progressivement avec des actions adaptées à votre contexte.
 
-**Pour qui ?**  
-Collectivités, associations, TPE/PME, équipes communication et web.
-
-**Comprend :**
-
-- suivi des corrections  
-- tests réguliers  
-- conseils UX et contenus  
-- support asynchrone (email)  
-- petites visios ponctuelles si nécessaire  
+Le format est adapté à la taille de la structure, à ses moyens et à ses priorités. 
 
 Prestation flexible, modulaire, sans engagement.
 
 ---
 
+Chaque accompagnement est pensé pour rester utile, compréhensible et adapté à la réalité de votre structure
+
 ### Conditions tarifaires 2025/2026
 
-Tarifs publics finaux valables pour 2025 et 2026.  
+Tarifs publics valables pour 2025 et 2026.  
 TVA non applicable - article 293 B du CGI (auto-entreprise).
 
 En cas d’assujettissement futur :  
-➡️ Les prix publics resteront identiques et seront exprimés en TTC, sans impact client.
+les prix publics resteront identiques et seront exprimés en TTC, sans impact pour le client.
 
 ---
 
